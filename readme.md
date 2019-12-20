@@ -14,5 +14,5 @@ Let's get started.
 				The pictures were taken by @kettik.kg
                                         https://komoldin.github.io/KamaTravel.io/
 					![Image alt](https://github.com/Komoldin/KamaTravel.io/blob/master/img/screen/01.png)
-
+							![Image alt](https://github.com/Komoldin/KamaTravel.io/blob/master/img/screen/02.png)
 				Web designed by Komoldin Khuzhamberdiev from com-18
