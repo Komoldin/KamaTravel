@@ -13,6 +13,6 @@ Let's get started.
 				there are also Fonts Awesome icons
 				The pictures were taken by @kettik.kg
                                         https://komoldin.github.io/KamaTravel.io/
-					![Image alt](https://github.com/{Komoldin}/{Kama.Travel.io}/raw/{branch}/{path}/image.png)
+					![Image alt](https://github.com/{Komoldin}/{KamaTravel.io/img/screen/01.png}/raw/{branch}/{path}/image.png)
 
 				Web designed by Komoldin Khuzhamberdiev from com-18
